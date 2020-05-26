@@ -1,5 +1,5 @@
 # python-visual
-matplotlib, pyplot
+# matplotlib, pyplot
 Some of my works with python-visual libraries
 
 
