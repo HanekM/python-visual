@@ -1,5 +1,6 @@
 # python-visual
-My works with python-visual libraries
+matplotlib, pyplot
+Some of my works with python-visual libraries
 
 
 
